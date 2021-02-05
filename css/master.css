@@ -1,0 +1,22 @@
+/* regole debug */
+.container{
+  background-color: #ffc0cb;
+}
+
+[class*="col-"]{
+  border: 1px solid #000;
+  text-align: center;
+}
+
+span{
+  line-height: 200px;
+}
+
+.margin{
+  padding: 0.5%;
+}
+
+.pinkdark{
+  border: 1px solid #fff;
+  background-color: #f07f80;
+}
